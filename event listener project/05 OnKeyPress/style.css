@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#display {
+    color: orange;
+    margin-top: 20px;
+
+}
+#input-box {
+    margin-top: 50px;
+    font-size: 25px;
+}
